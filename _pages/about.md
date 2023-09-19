@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Meng Qingyan, Professor, Doctoral Supervisor, Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences, Director of the research group for earth observation application systems engineering. In 2004, he was awarded the title of "Outstanding Youth of the Central State Organization".
+**Meng Qingyan**
+
+Professor, Doctoral Supervisor, Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences, Director of the research group for earth observation application systems engineering. In 2004, he was awarded the title of "Outstanding Youth of the Central State Organization".
 His research interests are **urban environmental remote sensing** and seismic infrared remote sensing. International cooperation research with more than ten countries including France, Netherlands, Hungary, Russia, Bulgaria, Egypt, Israel, Japan, and Thailand. 
 He has published 4 monographs, published more than **190 academic papers**, authorized and accepted 59 invention patents, and obtained 27 software copyrights, 19 awards. He has traveled to the United States, Switzerland, Hungary, Egypt and other countries for academic exchanges.
 He provides courses on "Remote Sensing of Urban Environment" and "Remote Sensing Information Processing and Urban Application" at the University of Chinese Academy of Sciences. A training course on urban remote sensing was also organized for member countries of APSO and was included in the 10-year plan of APSO.
@@ -18,8 +20,13 @@ He provides courses on "Remote Sensing of Urban Environment" and "Remote Sensing
 Contact Us
 ------
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the 
+- Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences
+- P.O. Box 9718, Datum Road No.3, Chao yang District, Beijing, China 100101 
+- Mobile: +86-13911317962
+- Phone: 86-10-64852195 (office)
+- Fax:  86-10-64839949
+- E-mail: mengqy@radi.ac.cn
+
 
 # Recent publications
 
@@ -78,6 +85,7 @@ Recent International Exchanges
 
 **2023**
 
-June 1-14, 2023, Hungary, China-Hungary Exchange Project.<br>![Remote Sensing of Urban Green Space](城市绿度空间遥感.jpg)
+June 1-14, 2023, Hungary, China-Hungary Exchange Project.<br>![Exchange1](Exchange1.jpg)
+<br>![Exchange2](Exchange2.jpg)
 
 
