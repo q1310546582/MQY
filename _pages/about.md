@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "RESUME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Meng Qingyan, Professor, Doctoral Supervisor, Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences, Director of the research group for earth observation application systems engineering. In 2004, he was awarded the title of "Outstanding Youth of the Central State Organization".
+His research interests are **urban environmental remote sensing** and seismic infrared remote sensing. International cooperation research with more than ten countries including France, Netherlands, Hungary, Russia, Bulgaria, Egypt, Israel, Japan, and Thailand. 
+He has published 4 monographs, published more than 190 academic papers, authorized and accepted 59 invention patents, and obtained 27 software copyrights, 19 awards. He has traveled to the United States, Switzerland, Hungary, Egypt and other countries for academic exchanges.
+He provides courses on "Remote Sensing of Urban Environment" and "Remote Sensing Information Processing and Urban Application" at the University of Chinese Academy of Sciences. A training course on urban remote sensing was also organized for member countries of APSO and was included in the 10-year plan of APSO.
+
 
 A data-driven personal website
 ======
