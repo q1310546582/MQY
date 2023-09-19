@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Qingyan Meng"
+  avatar           : "images/MQY.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "P.O. Box 9718, Datum Road No.3, Chao yang District, Beijing, China 100101"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
