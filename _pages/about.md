@@ -15,7 +15,7 @@ His research interests are **urban environmental remote sensing** and seismic in
 He has published 4 monographs, published more than **190 academic papers**, authorized and accepted 59 invention patents, and obtained 27 software copyrights, 19 awards. He has traveled to the United States, Switzerland, Hungary, Egypt and other countries for academic exchanges.
 He provides courses on "Remote Sensing of Urban Environment" and "Remote Sensing Information Processing and Urban Application" at the University of Chinese Academy of Sciences. A training course on urban remote sensing was also organized for member countries of APSO and was included in the 10-year plan of APSO.
 
-**[Detailed CV]**(https://pages.github.com/)
+**[Detailed CV]**(https://q1310546582.github.io/MQY.github.io/cv/)
 
 Contact Us
 ------
