@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Keynote Speech"
+title: ""
 permalink: /speech/
 author_profile: true
 redirect_from:
