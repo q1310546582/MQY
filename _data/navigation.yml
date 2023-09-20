@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Basic Information"
-    url: /Basic Information/    
+    url: /cv/    
 
   - title: "Achievements"
-    url: /teaching/    
+    url: /achievements/    
     
   - title: "Keynote Speech"
-    url: /portfolio/
+    url: /speech/
         
   - title: "International Cooperation"
     url: /posts/
