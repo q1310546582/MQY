@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "International Cooperation"
+title: ""
 permalink: /posts/
 author_profile: true
 redirect_from:
