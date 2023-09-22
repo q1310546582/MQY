@@ -7,6 +7,9 @@ author_profile: true
 
 
 # Publications
+
+SCI(79)
+======
 1.	Wu P, Meng Q*, Zhang Y, et al. Coarse-graining research of the thermal infrared anomalies before earthquakes in the Sichuan area on Google Earth engine[J]. Frontiers in Earth Science, 2023, 11: 1101165.
 2.	ZHAO Ran, YANG Feng-yun*, MENG Qing-yan, KANG Yu-peng, ZHENG Jia-yuan, HU Xin-li, YANG Hang. Comparative Analysis of GF-1 and GF-6 WFV Images in Suspended Matter Concentration Inversion in Dianchi Lake. Spectroscopy and Spectral Analysis, 2023,43(1): 198-205.
 3.	WANG Xiao-xuan, LU Xiao-ping*, MENG Qing-yan, LI Guo-qing, WANG Jun, ZHANG Lin-lin, YANG Ze-nan. Inversion of Leaf Area Index Based on GF-6 WFV Spectral Vegetation Index Model[J]. Spectroscopy and Spectral Analysis, 2022,42(7): 2278-2283. 
@@ -79,3 +82,38 @@ author_profile: true
 70.	Xiangqin Wei, Xingfa Gu*, Qingyan Meng, Tao Yu, Xiang Zhou, Zheng Wei, Kun Jia* and Chunmei Wang，Leaf Area Index Estimation Using Chinese GF-1Wide Field View Data in an Agriculture Region，Sensors 2017, 17,1593.doi:10.3390/s17071593 . 
 71.	Zhang Ying, Meng Qingyan, Wu Jiali, Zhao Feng. Study of Environmental Vegetation  Index Based on Environment Satellite CCD Data and LAI Inversion. Spectroscopy and Spectral Analysis, 2011, 31(10):2789-2793,doi.10.3964/j.issn.1000-0593(2011).
 
+
+EI(20)
+=====
+1.	Meng Qingyan, Wang zian*, Zhang linlin, Sun zhenhui, Hu die, Yang tianliang. Response relationship between urban thermal environment and aggregate density of impermeable surface in multi-spatial scale: A Case Study of Beijing. Journal of Remote Sensing. 2020.
+2.	Yao Zhixin, Meng Qingyan *, Sun Zhenhui, Liu Shufu, Zhang Linlin. Study on the Spatiotemporal Correlation Between Impervious Surface and Surface Runoff: A Case Study of Hangzhou's Main Urban Area. Journal of Remote Sensing. 2020 (2)
+3.  Yunxiao Sun; Qingyan Meng; Zhenhui Sun; Jiahui Zhang; Linlin Zhang. Assessing the impacts of grain sizes on landscape pattern of urban green space[J].Proceedings of the SPIE, 2017,Vol.10462
+4.  Yang J, Meng Q*, Huang Q, et al. A new method of building extraction from high resolution remote sensing images based on NSCT And PCNN[C]// International Conference on Agro-Geoinformatics. IEEE, 2016:1-5.
+5.	Jiahui Zhang, Sébastien Mavromatis, Qingyan Meng, Jean Sequeira, Yunxiao Sun, Ying Zhang, using mathematical morphology on lidar data to extract information from urban vegetation,, Igarss 2016.
+6.	Malgorzata Verőné Wojtaszek1, Valéria Balázsik1, Tamás Jancsó1, Margit Horoszné Gulyás1, Qingyan Meng. Comparison of Three Image Classification Methods in Urban Environment[J]. Journal of Geoscience and Environment Protection, 2015, 3: 54-59.
+7.	Zhan Y, Meng Q, Wang C, et al. Fractional Vegetation Cover Estimation Over Large Regions Using Gf-1 Satellite Data[C]//SPIE Asia-Pacific Remote Sensing. International Society for Optics and Photonics, 2014: 92604B-92604B-8.
+8.	Wang Chunmei, Meng Qingyan, Zhan Yulin,Liu Miao,Wang Liang and Tamas Jancso.Spatial Interpolation Analysis of Spring Wheat Evapotranspiration Measurements in Northwest China[J].Transactions of the Chinese Society for Agricultural Machinery,2014,45(11):172-179. 
+9.	Wang Chunmei,Gu Xingfa, YuTao, Meng Qingyan, Liu Miao, Li LingLing, Spatialand Temporal Variability of Spring Wheat Leaf Area Index and Coveragein Northwest China[J].Transactions of the Chinese Society for Agricultural Machinery.2014,8:254-26.
+10.	Xue X, Meng Q*, Xie Y, et al. Case Study of Atmospheric Correction on Ccd Data of Hj-1 Satellite Based on 6S Model[C]//Iop Conference Series: Earth and Environmental Science. IOP Publishing, 2014, 17(1): 012215.
+11.	K Wang,T Yu,Q Y Meng,G K Wang,S P Li,S H Liu. Edge Detection from High Resolution Remote Sensing Images using Two-Dimensional log Gabor Filter in Frequency Domain[J]. IOP Conference Series: Earth and Environmental Science,2014,17(1).
+12.	Zhouwei Zhang，Jie Han，Tao Yu，Qingyan MENG. Study on the Pre Processing Sequence of Environmental Satellite Data, Geomatics and Information Science of Wuhan University·Information Science Edition,2013,38(12):1456-1459.
+13.	C M Wang, Q Y Meng*, L J Zheng, M Liu. Study on Variability of Wheat Evapotranspiration in Irrigation Farmland Areas of Northwest China. 2013. ISRSE 35.
+14.	Chunzhu Wei, Qinyan Meng*, Wenfeng Zheng, Zhangli Sun. A Research on Human Emergency Evacuation Based on Revised Aco-Ca. Geoinformatics, 2012 20th International Conference.
+15.	Zewei Miao, Qingyan Meng*. Driving factors and strategies of Chinese homestead garden ecosystems. Models. Spanish Journal of Rural Development. VOL. Ⅱ(3):51-60. September. 2011.
+16.	Meng Q. Y. Wang H. Y. and Wang Z. Q. Study on K cycle of Rubber-tea-chicken Agro-forestry Model in Tropical Area of China. (Chinese). Acta of Agriculture Engineering, 2002.18(1):115-117.
+17.	Meng Q. Y. Wu J. Wang Z. Q. (2001) Study on the Relative System of Rubber-tea-chicken Agro-forestry Model in Tropical Area of China. (Chinese). Acta of Agriculture Engineering, 2001.17(17):158-161.
+18.	Wang Z. Q. Meng Q. Y.  Yu S X. Ecological and economic benefits of rubber-tea-chicken agroforestry system. 2001.Beijing.《Eco-agriculture and sustainable development-proceedings of the 2001 International Symposium on eco-agriculture and sustainable development》2001,122-127
+19.	Meng Q. Y. Analysis of Energy Flow of Rubber-Tea-Chicken Agro-Forestry System in Tropical Area of China. (English) Journal of Zhejiang University (Agric. & Life Sci.), 1999.25(5):473-478.
+20.	Meng Q. Y，Wang Z. Q ，Study on Function of Rubber-tea-chicken Agro-forestry Model in Tropical Area of China.(English). Chinese Ecological Agriculture and Intensive Farming System, China Environment Science Press.Beijing,1999：204-212.
+
+
+
+Books
+======
+1.	Remote Sensing of Urban Green Space, Science Press, 2020, The Sole Author, Awarded The 2017 National Science and Technology Academic Publication Publishing Fund, Book Number ( ISBN 978-7-03-064606-4 )
+2.	Earthquake Thermal Infrared Remote Sensing (The Second Edition), 2017, Earthquake Science Press, ISBN 978-7-5028-4832-3/P(5531),The First Author.
+3.	Earthquake Thermal Infrared Remote Sensing, 2014, Earthquake Science Press, ISBN 978-7-5028-4192-8/P(4880),The First Author.
+4.	Natural Disaster and Spatial Information System, China Space Navigation Press, 2013, Editorial Advisory Board Member, ISBN978-7-5159-0492-4
+5.	Remote Sensing Application & Demonstration of Egypt, 2012, Star Map Press, ISBN 978-7-5471-0851-2, The Fourth Author.
+6.	International Conference ‘The Impact of Urbanization, Industrial, Agricultural and Forest Technologies on The Natural Environment’ Album.
+7.	Member of The Editorial Board of Proceedings of Academic Seminar on The Seventh Framework of The European Union：Integrated Geo-Spatial Information Technology and Its Application To Resource and Environmental Management Towards GEOSS.
