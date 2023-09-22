@@ -25,7 +25,37 @@ Agro-ecology Research Institute, Zhejiang University Huajiachi Campus,
 
 
 
-Work experience
+
+
+
+Work experience  
+======
+*	Vice President of Loess Plateau Remote Sensing Branch of China Remote Sensing Application Association（2021.12-2025.12）
+*	Member of the sixth Council of China Urban Planning Society（2022.04-2026.04）
+*	Deputy Director of the Ecological Remote Sensing Monitoring and assessment committee of CEN
+*	Professor at the University of Chinese Academy of Sciences
+*	Editorial Board of Journal of Remote Sensing
+*	Member of the expert group of the National Key Research and Development Plan of the 13th five-year plan "research on technology and equipment for law enforcement support of prison police"(2020.12-2023.12)
+*	Member Of The Expert Committee Of The National Ecological Protection Red Line Supervision Platform Project (2018.02)
+*	Joint Undergraduate Students Academic Supervisor Of Earth Science Classes, Li Siguang College, China University Of Geosciences (Wuhan) (2017.04)
+*	Expert of China Key Science & Technology Program ‘High Resolution Observation System’ Application System.
+*	Director of The Expert Group of Disaster Information Service System Planning of China Key Project ‘China National Natural Disaster Space Infrastructure’.
+*	Director of The Expert Group of Remote Sensing Application System Planning of China Key Project ‘China National Space Infrastructure’.
+*	Expert of ‘Cinna National Strategic Industries Planning’.
+*	Expert of the space Application and Ground Station Network of ‘China Civilian Space Remote Sensing 2030 Development Planning’.
+*	Invited Professor of China Earthquake Administration.
+*	Expert of Overall and Engineering Information "Twelfth Five Year Plan" Demonstration Expert Group of China Key Science & Technology Program ‘High Resolution Observation System’ Application System.
+*	Deputy Secretary General of Digital City Council of China Society for Urban Studies. 
+*	Commissioner of the First Academic Committee of Guangdong Province Key Laboratory of Land Use and Consolidation.
+*	Member of the First Council of Hebei Collaborative Innovation Center for Aerospace Remote Sensing Information Processing and Application.
+*	Deputy Secretary of the First Council of Hebei Collaborative Innovation Center for Aerospace Remote Sensing Information Processing and Application.
+*	Member of Earth Observation Committee of China Seismological Society.
+*	Adjunct professor, Faculty of Global Change and Earth System Science in Beijing Normal University.
+*	Member of Academic Committee of Key lab for Agricultural Remote Sensing and Information System of Zhejiang Province
+
+
+
+Membership in Scientific and Professional Organizations
 ======
 * China University of Geosciences (Beijing), Supervisor of Master's and Doctoral Students 2023.03 - present
 * Tianjin Chengjian University, Tianjin, Master's Degree Supervisor of Resources and Environment 2022.06 - present
@@ -52,29 +82,17 @@ At Institute of Remote Sensing Applications             1999.07-2001.01
 
 
   
-Skills
+Course
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	《Advanced Training Course on Urban Remote Sensing》，35 hours，APSCO，2020
+*	"Urban Environment Remote Sensing", School of Electronic and Electrical Engineering, University of Chinese Academy of Sciences, Professional Popularization Course, 40 hours, 2.5 credits, Chief Professor
+*	Remote Sensing Information Processing and Urban Application，International College of University of Chinese Academy of Sciences（UCAS）, Yanqihu Campus，Professional （Degree）Course；
+*	"Urban Remote Sensing", Li Siguang College of China University of Geosciences (Wuhan);
 
 
   
-Talks
+Specialty
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+*	Eco-environment Remote Sensing
+*	Earthquake Infrared Remote Sensing
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
