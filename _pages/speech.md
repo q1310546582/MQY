@@ -60,9 +60,9 @@ redirect_from:
 
 26.Dec. 5,2020, Hangzhou, Remote sensing of the urban land surface environment -- making urban life better -- at the 2020 Agroecology and rural revitalization academic forum  
 
-27. Dec,3,2020, Beijing,Technology and application of remote sensing monitoring of urban land surface environment, Chinese Academy of Sciences
-    
-28.October 31, 2020,Presentation on the theme "spatial quantification of urban heat island drivers" at the third symposium on Urban Remote Sensing, Shanghai  
+27.Dec,3,2020, Beijing,Technology and application of remote sensing monitoring of urban land surface environment, Chinese Academy of Sciences  
+
+28.October 31, 2020,Presentation on the theme "spatial quantification of urban heat island drivers" at the third symposium on Urban Remote Sensing, Shanghai
 
 29.October 24,2020, Beijing Ecological Society, fifteen new century Beijing ecological forum-urban ecological monitoring and planning in Beijing  
 
